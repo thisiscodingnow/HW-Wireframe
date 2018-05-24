@@ -1,2 +1,2 @@
 # HW-Wireframe
-HW1
+repo for the skeleton HW-1
